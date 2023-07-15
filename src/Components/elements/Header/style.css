@@ -1,0 +1,22 @@
+.header-components{
+    max-width: 1440;
+    height: 78px;
+    /* border: 1px solid red; */
+    background-color:#3E71F3;
+    display: flex;
+}
+.header-logo{
+    color: #FFFFFF;
+}
+.custom-select{
+    position: relative;
+    width: 159px;
+    height: 34px;
+    border: 1px solid #ECF1FE;
+    border-radius: 22px;
+    background-color:#3E71F3 ;
+    color: #FFFFFF;;
+}
+.custom-select select {
+  display: none; /*hide original SELECT element:*/
+}
